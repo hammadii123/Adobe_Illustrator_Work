@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 612 792">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Layer_1">
+      <rect class="cls-2" x="194.64" y="65.21" width="222.73" height="187.99"/>
+      <rect class="cls-2" x="278.08" y="253.2" width="55.84" height="67.85"/>
+      <circle class="cls-2" cx="257.46" cy="124.3" r="19.16"/>
+      <circle class="cls-2" cx="257.46" cy="124.3" r="19.16"/>
+      <circle class="cls-2" cx="346.98" cy="123.32" r="19.16"/>
+      <circle class="cls-2" cx="257.46" cy="125.06" r="13.52"/>
+      <circle class="cls-2" cx="346.98" cy="123.32" r="13.52"/>
+      <circle class="cls-1" cx="257.72" cy="121.5" r="9.14"/>
+      <circle class="cls-1" cx="346.98" cy="119.06" r="9.14"/>
+      <ellipse class="cls-2" cx="306" cy="166.49" rx="6.97" ry="15.25"/>
+      <ellipse class="cls-2" cx="306" cy="174.12" rx="24.87" ry="7.63"/>
+      <ellipse class="cls-1" cx="291.47" cy="177.02" rx="2.9" ry="4.68" transform="translate(67.21 433.92) rotate(-80.15)"/>
+      <ellipse class="cls-1" cx="317.09" cy="177.77" rx="4.68" ry="2.9" transform="translate(-25.05 54.92) rotate(-9.53)"/>
+      <rect class="cls-2" x="268.63" y="509.04" width="18.9" height="96.1"/>
+      <rect class="cls-2" x="321.42" y="509.04" width="18.9" height="96.1"/>
+      <polygon class="cls-2" points="343.87 208.81 306 212.25 268.13 208.81 268.13 201.91 306 198.47 343.87 201.91 343.87 208.81"/>
+      <ellipse class="cls-1" cx="307.63" cy="208.35" rx="27.65" ry="2.99"/>
+      <ellipse class="cls-2" cx="261.93" cy="610.24" rx="31.69" ry="11.44" transform="translate(-160.57 97.9) rotate(-16.28)"/>
+      <ellipse class="cls-2" cx="344.01" cy="610.94" rx="11.44" ry="31.69" transform="translate(-329.28 806.57) rotate(-76.82)"/>
+      <rect class="cls-2" x="109.97" y="393.78" width="148.77" height="13.73" transform="translate(-210.79 204.79) rotate(-38.93)"/>
+      <rect class="cls-2" x="353.93" y="308.2" width="148.77" height="13.73" transform="translate(-96.67 230.72) rotate(-27.21)"/>
+      <rect class="cls-2" x="234.72" y="321.05" width="142.55" height="187.99"/>
+      <ellipse class="cls-2" cx="69.65" cy="441.21" rx="3.05" ry="15.71" transform="translate(-376.34 465.88) rotate(-84.2)"/>
+      <ellipse class="cls-2" cx="66.33" cy="448.38" rx="15.71" ry="3.05" transform="translate(-24.72 4.36) rotate(-3.17)"/>
+      <ellipse class="cls-2" cx="66.86" cy="456.03" rx="15.71" ry="3.05" transform="translate(-108.5 29.79) rotate(-14.02)"/>
+      <ellipse class="cls-2" cx="72.21" cy="461.71" rx="15.71" ry="3.05" transform="translate(-160.95 56.71) rotate(-21.04)"/>
+      <ellipse class="cls-2" cx="83.06" cy="462.11" rx="15.47" ry="2.89" transform="translate(-235.94 117.61) rotate(-32.61)"/>
+      <ellipse class="cls-2" cx="105.17" cy="446.86" rx="33.86" ry="14.64" transform="translate(-27.1 7.26) rotate(-3.5)"/>
+      <ellipse class="cls-2" cx="541.46" cy="248.08" rx="15.71" ry="3.05" transform="translate(-50.82 310.79) rotate(-30.66)"/>
+      <ellipse class="cls-2" cx="539.87" cy="240.34" rx="15.71" ry="3.05" transform="translate(-29.2 399.64) rotate(-39.64)"/>
+      <ellipse class="cls-2" cx="534.9" cy="234.5" rx="15.71" ry="3.05" transform="translate(13.65 497.95) rotate(-50.48)"/>
+      <ellipse class="cls-2" cx="527.22" cy="233.11" rx="15.71" ry="3.05" transform="translate(47.36 552.54) rotate(-57.5)"/>
+      <ellipse class="cls-2" cx="518.26" cy="239.24" rx="15.47" ry="2.89" transform="translate(109.69 637.86) rotate(-69.07)"/>
+      <ellipse class="cls-2" cx="509.54" cy="264.64" rx="33.86" ry="14.64" transform="translate(-50.97 389.09) rotate(-39.96)"/>
+    </g>
+  </g>
+</svg>
